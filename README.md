@@ -1,5 +1,5 @@
 
-# Build and Deploy Next 13 Website With Framer Motion & Tailwind CSS
+# Build and Deploy Next.Js Website With Framer Motion & Tailwind CSS
 
 ![Design preview for the NextJs project](public/shotofweb.png)
 
